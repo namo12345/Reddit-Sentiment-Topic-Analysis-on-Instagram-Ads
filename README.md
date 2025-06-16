@@ -146,5 +146,3 @@ Pull requests and suggestions are welcome! If you find bugs or want to improve t
 ## Author
 
 * **Venky Reddy**
-
-```
