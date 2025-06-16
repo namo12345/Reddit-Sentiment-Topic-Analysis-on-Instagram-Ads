@@ -92,13 +92,13 @@ pip install praw pandas matplotlib vaderSentiment wordcloud spacy scikit-learn t
 
 Shows how positive/negative Reddit posts are.
 
-![Sentiment Histogram](path/to/your/histogram.png)
+[Sentiment Histogram]
 
 ### Word Cloud
 
 A visual of the most frequent terms in Instagram Ads discussions.
 
-![Word Cloud](path/to/your/wordcloud.png)
+[Word Cloud]
 
 ---
 
@@ -146,6 +146,5 @@ Pull requests and suggestions are welcome! If you find bugs or want to improve t
 ## Author
 
 * **Venky Reddy**
-  [GitHub](https://github.com/venkyreddy10) | [LinkedIn](https://linkedin.com/in/venkyreddy)
 
 ```
