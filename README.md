@@ -142,7 +142,3 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 Pull requests and suggestions are welcome! If you find bugs or want to improve the project, feel free to contribute.
 
 ---
-
-## Author
-
-* **Venky Reddy**
